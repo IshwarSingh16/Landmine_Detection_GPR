@@ -1,2 +1,2 @@
 # Landmine_Detection_GPR
-Detecting landmine using AI on GPR scans.
+Detecting landmine using autoencoder on GPR scan data.
